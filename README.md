@@ -43,6 +43,7 @@ Puedes contactarme a través de:
 - GitHub: [https://github.com/castiel336](https://github.com/castiel336)
 
 ¡Gracias por visitar mi portfolio!
+Este repo se estara actualizando constantemente con nuevas cosas cada dia!
 
 ---
 
