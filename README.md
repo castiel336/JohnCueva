@@ -18,7 +18,12 @@ Para ejecutar este proyecto localmente, simplemente clona el repositorio desde [
 ### Clonar Repositorio
 
 Utiliza el siguiente comando para clonar este repositorio:
-``` git clone https://github.com/castiel336/JohnCueva  ```
+
+```
+function test() {
+  console.log("git clone https://github.com/castiel336/JohnCueva");
+}
+```
 
 También puedes visitar [johncueva.space](https://johncueva.space) para ver el proyecto en línea.
 
