@@ -144,7 +144,7 @@ img {
 /* Hero */
 .hero {
   background-color: #222;
-  background-image: linear-gradient(to bottom, #000000bb, #000000c6), url('../img/bg.avif');
+  background-image: linear-gradient(to bottom, #000000bb, #000000c6), url('../img/matrix.gif');
   background-size: contain;
   background-size: cover;
   background-position: center;
