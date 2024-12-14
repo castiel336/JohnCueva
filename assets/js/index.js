@@ -93,9 +93,9 @@ for (const link of links) {
 
 /* Usando la libreria typing.js */
 var typed = new Typed('#typing', {
-  strings: ['Desarrollador web'],
+  strings: ['Estudiante de TICS'],
   typeSpeed: 65,
-  loop: false,
+  loop: true,
   cursorChar: '👨‍💻'
 })
 
